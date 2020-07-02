@@ -1,1 +1,1 @@
-# Algorithm
+# Algorithm for social distance
